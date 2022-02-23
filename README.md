@@ -1,17 +1,15 @@
 # Baiba
 
-- 🤓 Software engineer with a background in Physics and Material Science.
-- 💻 7+ years experience in IT industry.
-  - 👩‍💼 Customer communication-oriented roles: Sales, Account Management, Customer Success Management.
-  - 💳 ☁ Knowledge in Payment Cards and Cloud Marketplace platforms for Cloud Solution Providers.
+- 🤓 Software engineer with a background in Physics, Material Science and some experience in IT industry.
 - ❓ I enjoy solving problems - understanding the issue and finding its root cause. 
 - 🌱 I love learning and acquiring new skills, as well as improving the skill-sets I already have.
 - 🏐 🏊‍♀ 🏃‍♀ 🚴‍♀ 🏋️‍♀ Sport and active lifestyle - that's how I cool down my brain.
 - 🎯 Programming is a way to never get bored as it combines both - never-ending learning and complex problem-solving.
 
 
-🠒 [My LinkedIn profile](https://www.linkedin.com/in/baiba-niparte/) 
+🠒 Contact me on [LinkedIn](https://www.linkedin.com/in/baiba-niparte/) 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="10">
+or send me an e-mail: _baiba.niparte@gmail.com_.
 
 
 ## My top 3 projects that I am currently working on:
