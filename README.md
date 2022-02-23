@@ -1,6 +1,6 @@
 # Baiba
 
-- 🤓 Software engineer with a background in Physics, Material Science and some experience in IT industry.
+- 🤓 Software Developer with a background in Physics, Material Science and some experience in IT industry.
 - ❓ I enjoy solving problems - understanding the issue and finding its root cause. 
 - 🌱 I love learning and acquiring new skills, as well as improving the skill-sets I already have.
 - 🏃‍♀ Sport and active lifestyle - that's how I cool down my brain.
