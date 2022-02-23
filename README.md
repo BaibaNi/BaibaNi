@@ -14,7 +14,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="10">
 
 
-##My top 3 projects that I am currently working on:
+## My top 3 projects that I am currently working on:
 
 ### [Person Register](https://github.com/BaibaNi/personRegister_separate_files)
 Allows you to register a person in the database by name, surname and personal ID code. 
