@@ -7,9 +7,11 @@
 - 🎯 Programming is a way to never get bored as it combines both - never-ending learning and complex problem-solving.
 
 
-🠒 Contact me on [LinkedIn](https://www.linkedin.com/in/baiba-niparte/) 
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="10">
-or send me an e-mail: _baiba.niparte@gmail.com_.
+🠒 Contact me on <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="10">
+[LinkedIn](https://www.linkedin.com/in/baiba-niparte/) 
+or send me an e-mail:
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" width="10">
+_baiba.niparte@gmail.com_.
 
 
 ## My top 3 projects that I am currently working on:
