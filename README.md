@@ -18,14 +18,18 @@ _baiba.niparte@gmail.com_.
 
 #### [BOOKING APP](https://github.com/BaibaNi/BookingApp)
 
-App where you can register apartment for others to book, book an apartment for a time period and also - 
+Register apartment for others to book, book an apartment for a time period and also - 
 leave a review and rating.
+- CRUD operations
+- MVC architecture
 
 #### [FRIENDS APP](https://github.com/BaibaNi/FriendsApp)
 
-App where you can invite your friends and approve those, that have invited you. 
-If you don't have an account yet, you can register. Browse and read articles, 'like' and 
-leave a comment.
+Invite your friends, approve friends' invitations. 
+Browse and read articles, 'like' and leave a comment.
+If you don't have an account yet, you can register.
+- CRUD operations
+- MVC architecture
 
 #### [PERSON REGISTER](https://github.com/BaibaNi/personRegister_separate_files)
 
