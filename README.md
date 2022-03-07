@@ -1,4 +1,4 @@
-# BAIBA
+## ABOUT ME
 
 🔸 Software Developer with a background in Physics, Material Science and some experience in IT industry.  
 🔸 I enjoy solving problems - understanding the issue and finding its root cause.  
