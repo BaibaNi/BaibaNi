@@ -16,12 +16,12 @@ _baiba.niparte@gmail.com_.
 
 ### MY 3 LATEST PROJECTS
 
-####[BOOKING APP](https://github.com/BaibaNi/BookingApp)
+#### [BOOKING APP](https://github.com/BaibaNi/BookingApp)
 
 App where you can register apartment for others to book, book an apartment for a time period and also - 
 leave a review and rating.
 
-####[FRIENDS APP](https://github.com/BaibaNi/FriendsApp)
+#### [FRIENDS APP](https://github.com/BaibaNi/FriendsApp)
 
 App where you can invite your friends and approve those, that have invited you. 
 If you don't have an account yet, you can register. Browse and read articles, 'like' and 
