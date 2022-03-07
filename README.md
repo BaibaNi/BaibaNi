@@ -1,4 +1,4 @@
-# Baiba
+# BAIBA
 
 - 🤓 Software Developer with a background in Physics, Material Science and some experience in IT industry.
 - ❓ I enjoy solving problems - understanding the issue and finding its root cause. 
@@ -14,23 +14,39 @@ or send me an e-mail:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" width="10">
 _baiba.niparte@gmail.com_.
 
-## My top 3 projects that I am currently working on:
+### MY 3 LATEST PROJECTS
 
-### [Person Register](https://github.com/BaibaNi/personRegister_separate_files)
-Allows you to register a person in the database by name, surname and personal ID code. 
-This project was challenging when I wanted to improve the code by separating it into multiple files. 
-I dit it, and I think it's great.
+####[BOOKING APP](https://github.com/BaibaNi/BookingApp)
 
-### [Sign-up and Log-in page](https://github.com/BaibaNi/SignLogIn)
+App where you can register apartment for others to book, book an apartment for a time period and also - 
+leave a review and rating.
 
-So far, one of the voluminous projects (in terms of code amount) I have been working on. 
-During this project I learned a lot: installing MySQL and other tools to manage the database, 
-creating forms that permit a user to log-in or sign-up, formatting HTML forms with CSS. 
-And then I realized, that most likely many people can't even imagine, 
-how complex system is behind the tools they use daily.
+####[FRIENDS APP](https://github.com/BaibaNi/FriendsApp)
 
-### [Stock Markets](https://github.com/BaibaNi/stockAPI)
+App where you can invite your friends and approve those, that have invited you. 
+If you don't have an account yet, you can register. Browse and read articles, 'like' and 
+leave a comment.
 
-Follow the Stock Market trends and search the ones you have the most interest in. 
-Project using APIs with a very simple interface. While working on this project, 
-I learned the principles of using APIs and how to access necessary data. 
+#### [PERSON REGISTER](https://github.com/BaibaNi/personRegister_separate_files)
+
+Very simple person register, that allows registering a person in the database by name, 
+surname and personal ID code.
+
+[//]: # (### ARCHIVE:)
+
+[//]: # (#### [Sign-up and Log-in page]&#40;https://github.com/BaibaNi/SignLogIn&#41;)
+
+[//]: # ()
+[//]: # (So far, one of the voluminous projects &#40;in terms of code amount&#41; I have been working on. )
+
+[//]: # (During this project I learned a lot: installing MySQL and other tools to manage the database, )
+
+[//]: # (creating forms that permit a user to log-in or sign-up, formatting HTML forms with CSS.)
+
+[//]: # ()
+[//]: # (#### [Stock Markets]&#40;https://github.com/BaibaNi/stockAPI&#41;)
+
+[//]: # ()
+[//]: # (Follow the Stock Market trends and search the ones you have the most interest in. )
+
+[//]: # (Project using APIs with a very simple interface.)
