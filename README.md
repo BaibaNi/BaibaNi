@@ -16,6 +16,12 @@ _baiba.niparte@gmail.com_.
 
 ### MY 3 LATEST PROJECTS
 
+#### 🔸 [TINDER APP](https://github.com/BaibaNi/AppLikeTinder)
+
+Application to find your match is built using Laravel Sail framework. 
+- CRUD operations
+- MVC architecture
+
 #### 🔸 [BOOKING APP](https://github.com/BaibaNi/BookingApp)
 
 Register apartment for others to book, book an apartment for a time period and also - 
@@ -33,12 +39,15 @@ If you don't have an account yet, you can register.
 - CRUD operations
 - MVC architecture
 
-#### 🔸 [PERSON REGISTER](https://github.com/BaibaNi/personRegister_separate_files)
-
-Very simple person register, that allows registering a person in the database by name, 
-surname and personal ID code.
-
 [//]: # (### ARCHIVE:)
+
+[//]: # (#### 🔸 [PERSON REGISTER]&#40;https://github.com/BaibaNi/personRegister_separate_files&#41;)
+
+[//]: # ()
+[//]: # (Very simple person register, that allows registering a person in the database by name, )
+
+[//]: # (surname and personal ID code.)
+
 
 [//]: # (#### 🔸 [Sign-up and Log-in page]&#40;https://github.com/BaibaNi/SignLogIn&#41;)
 
